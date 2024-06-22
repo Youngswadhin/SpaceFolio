@@ -52,7 +52,7 @@ const HeroContent = () => {
           Mobile, and Software development. Check out my projects and skills.
         </motion.p>
         <motion.a
-        href="https://drive.google.com/file/d/1Uhz56SVWmjHwuDtJrfypsAGIGwEnxoDn/view?usp=drive_link"
+        href="https://drive.google.com/file/d/1r3s_-qF5raT3ZeIuElGKmPmLNC_c7dN-/view?usp=drive_link"
         target="_blank"
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
